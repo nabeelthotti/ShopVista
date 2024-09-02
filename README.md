@@ -74,4 +74,4 @@ Detailed API documentation is available under the `/api-docs` path when the serv
 
 ## Sample Homepage
 
-![Homepage Screenshot](Images/Homepage.png "Homepage of E-Commerce Platform")
+![Homepage Screenshot](images/ShopVista1.png "Homepage of E-Commerce Platform")
